@@ -4,7 +4,7 @@ Tampermonkey script to block ads on YouTube.
 
 ## Installation
 
-1. Install the Tampermonkey browser extension.
+- Install the Tampermonkey browser extension.
 
 
 ## Reporting Issues

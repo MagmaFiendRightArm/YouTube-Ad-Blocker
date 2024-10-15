@@ -10,7 +10,7 @@ Tampermonkey script to block ads on YouTube.
 ## Reporting Issues
 
 If you encounter any bugs or if YouTube patches this ad blocker:
-- Send a message to @mxkxkks on Discord.
+- Send a message to @reset9e9 on Discord.
 - Open an issue on this GitHub repository.
 
 I will work on updating the script as soon as possible.
